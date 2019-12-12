@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+13 DEC 2019
 
 ### Project Title
-Replace the Project Title
+Github Project: Git Commands Documentation Template
 
 ### Description
-Describe what your project is about and what it does
+Programming for Data Science Nanodegree Program
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Meshal Altwariqi
 
